@@ -36,6 +36,7 @@ public class Gui{
 	public void setSelectedFile(String text) {
 		this.selected_file = text;
 		///Gsdfs
+		//ola
 	}
 	
 }
